@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 import pandas as pd
 import streamlit as st
-st.image("hue-thang-4-2.jpg")
+st.image("nha-hang-sang-trong-sai-gon-the-log.jpg")
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
 # Đường dẫn file dữ liệu dùng chung trên máy chủ
