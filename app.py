@@ -21,6 +21,7 @@ menu = {
         "Lẩu Thái hải sản": 300000,
         "Lẩu cá đuối Vũng Tàu": 199000,
         "Lẩu gà măng chua nấu chao": 179000,
+        "Thỏ  nướng tỏi ớt": 159000,
     },
     "Thức uống": {
         "Coca Cola": 20000,
@@ -32,6 +33,7 @@ menu = {
         "Nước ép cam": 40000,
         "Mojito chanh dây": 55000,
         "Bia Heineken": 30000,
+        "Nước mơ chua ngọt": 30000,
     },
 }
 
